@@ -1,4 +1,4 @@
-remote_theme: yingyonghui/contrast
+remote_theme: yingyonghui/rain
 plugins:
   - jekyll-remote-theme
 
