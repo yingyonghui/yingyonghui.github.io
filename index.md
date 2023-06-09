@@ -2,6 +2,8 @@
 
 To record the daily thoughts
 
+### [Click here to get a preview of all blogs.](https://yingyonghui.github.io/blog/)
+
 
 ```Remains to be completed
 Syntax highlighted code block
