@@ -1,4 +1,7 @@
-theme: minima
+remote_theme: minima
+
+plugins:
+  - jekyll-remote-theme
 
 title: yingyonghui's homepage
 description: Bookmark this to keep an eye on my project updates!
