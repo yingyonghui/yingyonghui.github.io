@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hao Lu / 路浩"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hao Lu"
 description              : &description "personal description"
 url                      : https://yingyonghui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "God helps those who help themselves"
   location         : "Beijing"
-  employer         : "Peking University"
+  employer         : "Beijing Institute of Radiation Medicine"
   uri              : # URL
   email            : "luh678@163.com" 
 

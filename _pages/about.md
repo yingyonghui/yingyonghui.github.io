@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a geneticist working with RStudio. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Gangqiao Zhou.Besides genetics, I’m a big fan of GitHub.
+I’m a geneticist working with RStudio. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Chenggang Zhang. Besides genetics, I’m a big fan of GitHub.
 
-这是路浩的个人主页。2021年我从军事医学科学院放射与辐射研究所毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？）。
+这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？）。
 
 <!-- A data-driven personal website
 ======
