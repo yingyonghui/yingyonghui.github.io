@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hao Lu / 路浩"
+title                    : "Hao Lu | 路浩"
 title_separator          : "-"
 name                     : &name "Hao Lu"
 description              : &description "personal description"
