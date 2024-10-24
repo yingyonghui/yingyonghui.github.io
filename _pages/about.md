@@ -11,19 +11,12 @@ A Research Associate at the Beijing Institute of Radiation Medicine, specializin
 
 这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者。喜欢背诗，偶尔写诗。目前最满意的一首词是：
 
-<div class="kaiti">
->这是用楷体显示的文本（谁能告诉我怎么设置楷体。。。折腾了好久也没成功。。。）
-</div>
-<div class="kaiti">
-鹧鸪天·坡峰岭
-</div>
-<div class="kaiti">
+<font face=STKaiti>鹧鸪天·坡峰岭
 并落三山岭苍苍，蛇行斗路缓且长。风凌巘嶂红林染，影落明湖青黛光。
-</div>
-<div class="kaiti">
 荆草绿，杏叶黄，高秋晚令桂枝香。相逢莫问江湖事，我是坡峰山水郎。
-</div>
-<font face=STKaiti>我是楷体</font>
+</font>
+
+
 
 <!-- A data-driven personal website
 ======
