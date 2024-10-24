@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a geneticist working with RStudio. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Chenggang Zhang. Besides genetics, I’m a big fan of GitHub.
+A research associate at Beijing Institute of Radiation Medicine, majoring in bioinformatics. My research interests mainly is the applicationo of single cell omics in various biological conditions, and On this basis the algorithm and tool development. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Chenggang Zhang. I’m new to GitHub.
 
-这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？）。
+这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者，但科研水平一般。喜欢背诗，偶尔写诗。目前最满意的一首词是：
+鹧鸪天·坡峰岭
+并落三山岭苍苍，蛇行斗路缓且长。风凌巘嶂红林染，影落明湖青黛光。
+荆草绿，杏叶黄，高秋晚令桂枝香。相逢莫问江湖事，我是坡峰山水郎。
+<font face="楷体">这是楷体字</font>
 
 <!-- A data-driven personal website
 ======
