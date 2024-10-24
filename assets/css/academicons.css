@@ -569,3 +569,7 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.kaiti {
+    font-family: 'Noto Serif', serif; /* 使用 Noto Serif 作为替代 */
+}
