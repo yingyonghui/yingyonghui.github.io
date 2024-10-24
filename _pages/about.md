@@ -9,22 +9,17 @@ redirect_from:
 
 A research associate at Beijing Institute of Radiation Medicine, majoring in bioinformatics. My research interests mainly is the applicationo of single cell omics in various biological conditions, and On this basis the algorithm and tool development. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Chenggang Zhang. I’m new to GitHub.
 
-这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者，科研水平中等。喜欢背诗，偶尔写诗。目前最满意的一首词是：
+这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者。喜欢背诗，偶尔写诗。目前最满意的一首词是：
 
 <div style="font-family: 'KaiTi';">
-这是用楷体显示的文本。
+这是用楷体显示的文本（谁能告诉我怎么设置楷体。。。折腾了好久也没成功。。。）
+</div>
+<div style="font-family: 'KaiTi';">
+鹧鸪天·坡峰岭
+并落三山岭苍苍，蛇行斗路缓且长。风凌巘嶂红林染，影落明湖青黛光。
+荆草绿，杏叶黄，高秋晚令桂枝香。相逢莫问江湖事，我是坡峰山水郎。
 </div>
 
-鹧鸪天·坡峰岭
-
-并落三山岭苍苍，蛇行斗路缓且长。风凌巘嶂红林染，影落明湖青黛光。
-
-荆草绿，杏叶黄，高秋晚令桂枝香。相逢莫问江湖事，我是坡峰山水郎。
-<!-- <font face="楷体">这是楷体字</font>
-<span style="font-family: 'KaiTi';">这段文字将会是楷体。</span>
-
-<font color=red  face=KaiTi>红色-楷体文字</font>
- -->
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
