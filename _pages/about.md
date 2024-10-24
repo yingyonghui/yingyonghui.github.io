@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A research associate at Beijing Institute of Radiation Medicine, majoring in bioinformatics. My research interests mainly is the applicationo of single cell omics in various biological conditions, and On this basis the algorithm and tool development. I got my PhD from Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences. My thesis was Next Generation sequencing and Evolution for High Altitude Adaption, advised by Chenggang Zhang. I’m new to GitHub.
+A Research Associate at the Beijing Institute of Radiation Medicine, specializing in bioinformatics. My research focuses on applying single-cell omics to various biological conditions, with an emphasis on developing related algorithms and tools. I earned my Ph.D. from the Beijing Institute of Radiation Medicine, Academy of Military Medical Sciences, where I studied next-generation sequencing and the integration of multi-omics data under the supervision of Chenggang Zhang. I am new to GitHub.
 
 这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者。喜欢背诗，偶尔写诗。目前最满意的一首词是：
 
