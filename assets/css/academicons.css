@@ -570,4 +570,6 @@ border-radius: .1em;
   color: #fff;
 }
 
-
+.kaiti {
+    font-family: 'KaiTi', serif; /* 使用 Noto Serif 作为替代 */
+}
