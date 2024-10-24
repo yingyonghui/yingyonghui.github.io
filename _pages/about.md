@@ -13,8 +13,8 @@ A research associate at Beijing Institute of Radiation Medicine, majoring in bio
 鹧鸪天·坡峰岭
 并落三山岭苍苍，蛇行斗路缓且长。风凌巘嶂红林染，影落明湖青黛光。
 荆草绿，杏叶黄，高秋晚令桂枝香。相逢莫问江湖事，我是坡峰山水郎。
-<link rel="stylesheet" type="text/css" href="styles.css">
-<span style="font-family: 'KaiTi';">这段文字将会是楷体。</span>
+<font face="楷体">这是楷体字</font>
+<font color=red  face=KaiTi>红色-楷体文字</font>
 
 <!-- A data-driven personal website
 ======
