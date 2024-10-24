@@ -12,7 +12,7 @@ A Research Associate at the Beijing Institute of Radiation Medicine, specializin
 这是路浩的个人主页。2021年我从军事医学研究院辐射医学研究所毕业。现在是一名科研工作者。喜欢背诗，偶尔写诗。目前最满意的一首词是：
 
 <div style="font-family: 'KaiTi';">
-这是用楷体显示的文本（谁能告诉我怎么设置楷体。。。折腾了好久也没成功。。。）
+>这是用楷体显示的文本（谁能告诉我怎么设置楷体。。。折腾了好久也没成功。。。）
 </div>
 <div style="font-family: 'KaiTi';">
 鹧鸪天·坡峰岭
