@@ -21,23 +21,15 @@ Work experience
 
 * Summer 2021: Research Assistant
   * Beijing Institute of Radiation Medicine
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
- -->
+
 Publications
 ======
 * You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=Gg8h-yMAAAAJ&hl=zh-CN)
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+
+<!-- <ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul> -->
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
