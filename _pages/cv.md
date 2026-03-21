@@ -33,5 +33,7 @@ Zuo, Yanhui Hao, Chao Yu, Yang Li, Gangqiao Zhou, Yiming Lu. Single-cell map of 
 Yiming Lu, Gangqiao Zhou. CommPath: An R package for inference and analysis of pathway-mediated cell-cell communication chain from single-cell transcriptomics. ***Computational and Structural Biotechnology Journal***, 2022, 20: 5978-5983.
 * Siao Jiang, **Hao Lu** (Co-first), Yingwei Pan, Aiqing Yang, Ainiwaer Aikemu, Hao Li, Rongjiao Hao,
 Qilin Huang, Xin Qi, Zongjian Tao, Yinglong Wu, Cheng Quan, Gangqiao Zhou, Yiming Lu. Characterization of the distinct immune microenvironments between hepatocellular carcinoma and intrahepatic cholangiocarcinoma. ***Cancer Letters***, 2024, 588: 216799.
-* You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=Gg8h-yMAAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Hao-Lu-52).
+* Luyu Ma, Yumeng Ye, **Hao Lu** (Co-first), Yuan Xing, Zhen Zhao, Cheng Quan, Zhaoqian Jia, Yiming Lu, Yang Li, Gangqiao Zhou. A study on the radiosensitivity of radiation-induced lung injury at the acute phase based on single-cell transcriptomics. ***Frontiers in Immunology***, 2022, 13: 941976.
+* Yuqing Jiang, Jie Ping, **Hao Lu** (Co-first), Haoxiang Zhang, Mengyu Liu, Yuanfeng Li, Gangqiao Zhou. Associations between high-altitude adaptation and risk of cardiovascular diseases: a bidirectional Mendelian randomization study. ***Molecular Genetics and Genomics***,2023, 298(5): 1007-1021.
+* You can also find my articles on my [Google Scholar profile](https://scholar.google.com.hk/citations?user=Gg8h-yMAAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Hao-Lu-52).
 
