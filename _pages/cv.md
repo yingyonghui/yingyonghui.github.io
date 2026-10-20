@@ -24,6 +24,7 @@ Work experience
 
 Publications
 ======
+* Jincheng Zhang, **Hao Lu**<sup>⁎</sup>, Guofu Dong<sup>⁎</sup>, and Changzhen Wang<sup>⁎</sup>. Ultra-high-dose-rate pulsed irradiation and the conditional FLASH effect: dosimetry, multiscale biology, and clinical translation. ***Frontiers in Oncology***, 2026, 16: 1990706.
 * Caihui Li, Luhao Tan, Qixiang Liu, Zhihui Li, Menghua Li, Xuefeng Yang, Guofu Dong, Cheng Quan, Jie Ping,  Changzhen Wang<sup>⁎</sup>, **Hao Lu**<sup>⁎</sup>. Early fibroblast remodeling associated with lung tissue preservation after FLASH irradiation. ***Phenomics***, 2026.
 * **Hao Lu**, Menghua Li, Cheng Quan, Caihui Li, Dawei Li, Zhihui Li, Jing Xu, Lihui Zhang, Qixiang Liu, Guofu Dong, Changzhen Wang. FLASH irradiation modulates immune responses and accelerates lung recovery: A single-cell perspective. ***Advanced Science***, 2025, 12(34): e01797.
 * **Hao Lu**, Hua Yan, Xiaoyu Li, Yuan Xing, Yumeng Ye, Siao Jiang, Luyu Ma, Jie Ping, Hongyan Zuo, Yanhui Hao, Chao Yu, Yang Li, Gangqiao Zhou, Yiming Lu. Single-cell map of dynamic cellular microenvironment of radiation-induced intestinal injury. ***Communications Biology***, 2023, 6: 1248.
