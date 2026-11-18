@@ -24,7 +24,7 @@ Work experience
 
 Publications
 ======
-* Cheng Quan, Yuyuan Wang, Qixiang Liu, ..., Pingkun Zhou, **Hao Lu**<sup>⁎</sup>, Yiming Lu<sup>⁎</sup>. CellStressDB: an AI-powered database of cellular responses to physical stressors. Nucleic Acids Research, 2026.
+* Cheng Quan, Yuyuan Wang, Qixiang Liu, ..., Pingkun Zhou, **Hao Lu**<sup>⁎</sup>, Yiming Lu<sup>⁎</sup>. CellStressDB: an AI-powered database of cellular responses to physical stressors. ***Nucleic Acids Research***, 2026.
 * Jincheng Zhang, **Hao Lu**<sup>⁎</sup>, Guofu Dong<sup>⁎</sup>, and Changzhen Wang<sup>⁎</sup>. Ultra-high-dose-rate pulsed irradiation and the conditional FLASH effect: dosimetry, multiscale biology, and clinical translation. ***Frontiers in Oncology***, 2026, 16: 1990706.
 * Caihui Li, Luhao Tan, Qixiang Liu, ..., Jie Ping,  Changzhen Wang<sup>⁎</sup>, **Hao Lu**<sup>⁎</sup>. Early fibroblast remodeling associated with lung tissue preservation after FLASH irradiation. ***Phenomics***, 2026, 6:530–533
 * **Hao Lu**, Menghua Li, Cheng Quan, ..., Qixiang Liu, Guofu Dong, Changzhen Wang. FLASH irradiation modulates immune responses and accelerates lung recovery: A single-cell perspective. ***Advanced Science***, 2025, 12(34): e01797.
